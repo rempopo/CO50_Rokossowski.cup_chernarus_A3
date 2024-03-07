@@ -1,0 +1,15 @@
+"####### tSF File Sweeper Engaged #######" 
+Mission directory:     J:\Tactical shift installer\ 
+Mission fodler name:   Tactical shift installer 
+Removing tSF Helpers 
+Removing DynAI Helpers 
+Removing unused tSF Modules 
+    Folder is not used: Removing AirborneSupport 
+    Folder is not used: Removing ArtillerySupport 
+    Folder is not used: Removing Conversations 
+    Folder is not used: Removing EditorRadioSettings 
+    Folder is not used: Removing EditorUnitBehavior 
+    Folder is not used: Removing EditorVehicleCrew 
+    Folder is not used: Removing Interactives 
+    Folder is not used: Removing POM 
+Done! 
